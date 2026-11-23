@@ -14,5 +14,5 @@ Motivated and skilled Software Engineer with expertise in web development and da
 
 
 # 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhyudai-shrivastava) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:itsabhyudai@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/itsabhyudai) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:itsabhyudai@gmail.com) 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
