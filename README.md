@@ -2,7 +2,7 @@
 
 AI Engineer with hands-on industry experience building production Generative AI applications, from LLM pipelines and RAG systems to AI agents.
 
-# 💻 Tech Stack:
+
 
 **AI & LLMs**  
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black) ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
