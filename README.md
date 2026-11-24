@@ -1,6 +1,6 @@
 ![MidnightOwl](https://github.com/user-attachments/assets/a7605427-fa69-416f-85ec-955ea51490c1)
 
-AI Engineer with hands-on industry experience building production Generative AI applications, from LLM pipelines and RAG systems to AI agents.
+AI Engineer with hands-on industry experience designing, developing, and deploying scalable, production-ready Generative AI applications, specializing in LLM pipelines, Retrieval-Augmented Generation (RAG) systems, AI agents, and intelligent automation solutions.
 
 
 
